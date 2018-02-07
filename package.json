@@ -1,0 +1,21 @@
+{
+  "packagingVersion": "4.0",
+  "minDcosReleaseVersion": "1.10",
+  "name": "ghost",
+  "version": "0.1.0-1.20.3",
+  "scm": "https://github.com/devinparrish-mesosphere.git",
+  "maintainer": "https://dcos.io/community",
+  "website": "https://ghost.org",
+  "description": "Ghost is a fully open source, hackable platform for building and running a modern online publication. We power blogs, magazines, and journalists from Zappos to Sky News.",
+  "tags": ["blog", "cms", "website"],
+  "preInstallNotes": "This DC/OS service is currently in preview.",
+  "postInstallNotes": "Ghost has been installed.",
+  "postUninstallNotes": "Ghost has been uninstalled",
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "https://en.wikipedia.org/wiki/MIT_License"
+    }
+  ],
+  "selected": false
+} 

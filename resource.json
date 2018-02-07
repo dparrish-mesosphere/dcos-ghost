@@ -1,0 +1,9 @@
+{
+  "assets": {
+    "container": {
+      "docker": {
+        "ghost-docker": "ghost:1.20.3"
+      }
+    }
+  }
+}
